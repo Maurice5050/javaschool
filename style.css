@@ -1,0 +1,50 @@
+body{
+background-image: url('./image/beach.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1
+{color:red;
+  text-align:center;
+  font-size: 50px;
+color:red;
+width: 80%;
+float: left;
+background-color:#9C27B0;
+padding: 40px;
+
+}
+h2{
+  color:red;
+  text-align:center;
+  font-size: 50px;
+  color:red;
+  width: 60%;
+  float: left;
+  background-color:#9C27B0;
+  padding: 10px;
+  text-align: center;
+
+}
+
+
+}
+#mau{
+  color:red;
+width: 60%;
+height: 10px;
+font-size: 40px;
+background-color:#E040FB;
+padding: 50px;
+text-align:center;
+}
+img{
+border: 600px;
+float: right;
+}
+#output{
+font-size: 60px;
+}
+h3{
+  font-size: 30px;
+}
