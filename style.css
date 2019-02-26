@@ -35,11 +35,12 @@ background-color:#E040FB;
 padding: 50px;
 text-align:center;
 }
+
 img{
 border: 600px;
 height: 250px;
 width: 350px
-float-right:400px;
+float-right:500px;
 }
 #output{
 font-size: 60px;
