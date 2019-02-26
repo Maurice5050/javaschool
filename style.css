@@ -38,8 +38,9 @@ text-align:center;
 img{
 border: 600px;
 height: 250px;
-width: 350px
-float: right;
+width: 350px;
+margin-left:600px;
+margin-bottom: 200px;
 }
 #output{
 font-size: 60px;
